@@ -1,4 +1,4 @@
 # jacoco-example
-Test coverage wiht JACoCo - Junit/Kotlin/Gradle
+Test coverage wiht JaCoCo - Junit/Kotlin/Gradle
 
 Run wih gradle build jacocoTestReport
